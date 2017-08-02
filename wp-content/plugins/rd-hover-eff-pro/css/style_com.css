@@ -1,0 +1,75 @@
+.rakib-dev {
+float: left;
+height: 200px;
+overflow: hidden;
+position: relative;
+text-align: center;
+width: 300px;
+margin-bottom: 10px;
+}
+.rakib-dev .mask,.rakib-dev .rd_content {
+   width: 300px;
+   height: 200px;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+.rakib-dev-ninth  .rd_content {
+   width: 300px;
+   height: 0px;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+.rakib-dev img {
+   display: block;
+   position: relative;
+}
+.rakib-dev h2 {
+border-bottom: 1px solid #fff;
+color: #fff;
+font-size: 17px;
+margin: 20px 0 0;
+padding: 20px 10px 3px;
+position: relative;
+text-align: center;
+text-transform: uppercase;
+}
+.rakib-dev p {
+margin-bottom: 20px !important;
+color: #fff;
+font-family: Georgia,serif;
+font-size: 13px;
+font-style: italic;
+line-height: 18px !important;
+padding: 10px 20px 0;
+position: relative;
+text-align: center;
+}
+.rakib-dev a {
+background-color: rgba(0, 0, 0, 0.4);
+border-bottom: 0 none;
+color: #fff;
+display: inline-block;
+font-size: 15px;
+padding: 5px 14px;
+text-decoration: none;
+text-transform: uppercase;
+}
+.rakib-dev a:hover {
+background-color: rgba(0, 0, 0, 0.4);
+border-bottom: 0 none;
+color: #fff;
+display: inline-block;
+font-size: 15px;
+padding: 5px 14px;
+text-decoration: none;
+text-transform: uppercase;
+}
+
+#style1  ul, #style2  ul, #style3  ul, #style4  ul, #style5  ul, #style6  ul, #style7  ul, #style8  ul, #style9  ul, #style10  ul, #style11  ul, #style12  ul, #style13  ul, #style14  ul, #style15  ul, #style16  ul, #style17  ul, #style18  ul, #style19  ul, #style20  ul, #style21  ul {
+  overflow: hidden;
+  width: 100% !important;
+}

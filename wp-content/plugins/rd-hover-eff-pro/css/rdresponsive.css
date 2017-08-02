@@ -1,0 +1,36 @@
+/* Default Layout: 992px.  */
+
+.column {width:960px}
+.item-hover.circle {
+  margin-left: 57px;
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.item-hover.circle {
+margin-left: 80px;
+}
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.column {width:300px}
+.item-hover.circle {
+  margin-left: -10px;
+}
+}
+
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.column {width:450px}
+.item-hover.circle {
+  margin-left: 73px;
+}
+}
